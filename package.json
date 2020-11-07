@@ -1,0 +1,20 @@
+{
+  "name": "google-spreadsheet-flightradar24-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe S. Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "google-spreadsheet": "^3.0.13",
+    "googleapis": "^62.0.0",
+    "log-to-file": "^2.0.2",
+    "luxon": "^1.25.0"
+  }
+}
